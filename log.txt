@@ -1,0 +1,236 @@
+[2023/08/09 17:58:50.215] 
+################################ Ventoy2Disk 1.0.0.2 ################################
+[2023/08/09 17:58:50.217] Control Flag: 0 1 1
+[2023/08/09 17:58:50.217] Windows Version : Windows 10 64-bit (Build 22621)
+[2023/08/09 17:58:50.217] 
+===================== Enum All PhyDrives =====================
+[2023/08/09 17:58:50.218] RegOpenKeyExA <SYSTEM\CurrentControlSet\Services\disk\Enum> Ret:0
+[2023/08/09 17:58:50.218] RegQueryValueExA <Count> ret:0  Size:4 Value:1
+[2023/08/09 17:58:50.218] GetPhysicalDriveCount: 1
+[2023/08/09 17:58:50.218] Logical Drives: 0xc
+[2023/08/09 17:58:50.218] LogicalDrive:\\.\C: PhyDrive:0 Offset:122683392 ExtentLength:188426161664
+[2023/08/09 17:58:50.218] C --> 0
+[2023/08/09 17:58:50.219] LogicalDrive:\\.\D: PhyDrive:0 Offset:189388554240 ExtentLength:322121498624
+[2023/08/09 17:58:50.219] D --> 0
+[2023/08/09 17:58:50.221] Create file Handle:000001C4 \\.\PhysicalDrive0 status:0
+[2023/08/09 17:58:50.221] PHYSICALDRIVE0 size 512110190592 bytes
+[2023/08/09 17:58:50.221] PhyDrv:0 BusType:Nvme Removable:0 Size:512GB(512110190592) Name: INTEL SSDPEKNU512GZ
+[2023/08/09 17:58:50.221] LogicalDrive:\\.\C: PhyDrive:0 Offset:122683392 ExtentLength:188426161664
+[2023/08/09 17:58:50.221] Logical Drive:C  ===> PhyDrive:0
+[2023/08/09 17:58:50.222] LogicalDrive:\\.\D: PhyDrive:0 Offset:189388554240 ExtentLength:322121498624
+[2023/08/09 17:58:50.222] Logical Drive:D  ===> PhyDrive:0
+[2023/08/09 17:58:50.222] < INTEL SSDPEKNU512GZ> is filtered for not USB type.
+[2023/08/09 17:58:50.603] Total 36 languages ...
+[2023/08/09 17:59:06.372] #### Now Refresh PhyDrive ####
+[2023/08/09 17:59:06.373] 
+===================== Enum All PhyDrives =====================
+[2023/08/09 17:59:06.373] RegOpenKeyExA <SYSTEM\CurrentControlSet\Services\disk\Enum> Ret:0
+[2023/08/09 17:59:06.373] RegQueryValueExA <Count> ret:0  Size:4 Value:1
+[2023/08/09 17:59:06.373] GetPhysicalDriveCount: 1
+[2023/08/09 17:59:06.373] Logical Drives: 0xc
+[2023/08/09 17:59:06.373] LogicalDrive:\\.\C: PhyDrive:0 Offset:122683392 ExtentLength:188426161664
+[2023/08/09 17:59:06.373] C --> 0
+[2023/08/09 17:59:06.374] LogicalDrive:\\.\D: PhyDrive:0 Offset:189388554240 ExtentLength:322121498624
+[2023/08/09 17:59:06.374] D --> 0
+[2023/08/09 17:59:06.374] Create file Handle:00000570 \\.\PhysicalDrive0 status:0
+[2023/08/09 17:59:06.375] PHYSICALDRIVE0 size 512110190592 bytes
+[2023/08/09 17:59:06.375] PhyDrv:0 BusType:Nvme Removable:0 Size:512GB(512110190592) Name: INTEL SSDPEKNU512GZ
+[2023/08/09 17:59:06.375] LogicalDrive:\\.\C: PhyDrive:0 Offset:122683392 ExtentLength:188426161664
+[2023/08/09 17:59:06.375] Logical Drive:C  ===> PhyDrive:0
+[2023/08/09 17:59:06.375] LogicalDrive:\\.\D: PhyDrive:0 Offset:189388554240 ExtentLength:322121498624
+[2023/08/09 17:59:06.375] Logical Drive:D  ===> PhyDrive:0
+[2023/08/09 17:59:06.375] < INTEL SSDPEKNU512GZ> is filtered for not USB type.
+[2023/08/09 18:08:22.936] 
+################################ Ventoy2Disk 1.0.0.2 ################################
+[2023/08/09 18:08:22.937] Control Flag: 0 1 1
+[2023/08/09 18:08:22.937] Windows Version : Windows 10 64-bit (Build 22621)
+[2023/08/09 18:08:22.937] 
+===================== Enum All PhyDrives =====================
+[2023/08/09 18:08:22.938] RegOpenKeyExA <SYSTEM\CurrentControlSet\Services\disk\Enum> Ret:0
+[2023/08/09 18:08:22.938] RegQueryValueExA <Count> ret:0  Size:4 Value:2
+[2023/08/09 18:08:22.938] GetPhysicalDriveCount: 2
+[2023/08/09 18:08:22.938] Logical Drives: 0x1c
+[2023/08/09 18:08:22.938] LogicalDrive:\\.\C: PhyDrive:0 Offset:122683392 ExtentLength:188426161664
+[2023/08/09 18:08:22.939] C --> 0
+[2023/08/09 18:08:22.939] LogicalDrive:\\.\D: PhyDrive:0 Offset:189388554240 ExtentLength:322121498624
+[2023/08/09 18:08:22.939] D --> 0
+[2023/08/09 18:08:22.939] LogicalDrive:\\.\E: PhyDrive:1 Offset:65536 ExtentLength:15581773824
+[2023/08/09 18:08:22.939] E --> 1
+[2023/08/09 18:08:22.940] Create file Handle:00000120 \\.\PhysicalDrive0 status:0
+[2023/08/09 18:08:22.942] PHYSICALDRIVE0 size 512110190592 bytes
+[2023/08/09 18:08:22.945] Create file Handle:000001A4 \\.\PhysicalDrive1 status:0
+[2023/08/09 18:08:22.948] PHYSICALDRIVE1 size 15581839360 bytes
+[2023/08/09 18:08:22.948] PhyDrv:0 BusType:Nvme Removable:0 Size:512GB(512110190592) Name: INTEL SSDPEKNU512GZ
+[2023/08/09 18:08:22.948] PhyDrv:1 BusType:USB  Removable:1 Size:16GB(15581839360) Name:Netac OnlyDisk
+[2023/08/09 18:08:22.948] LogicalDrive:\\.\C: PhyDrive:0 Offset:122683392 ExtentLength:188426161664
+[2023/08/09 18:08:22.948] Logical Drive:C  ===> PhyDrive:0
+[2023/08/09 18:08:22.949] LogicalDrive:\\.\D: PhyDrive:0 Offset:189388554240 ExtentLength:322121498624
+[2023/08/09 18:08:22.949] Logical Drive:D  ===> PhyDrive:0
+[2023/08/09 18:08:22.949] LogicalDrive:\\.\E: PhyDrive:1 Offset:65536 ExtentLength:15581773824
+[2023/08/09 18:08:22.949] Logical Drive:E  ===> PhyDrive:1
+[2023/08/09 18:08:22.950] Create file Handle:000001A4 \\.\PhysicalDrive1 status:0
+[2023/08/09 18:08:22.952] Read MBR Ret:1 Size:512 code:183
+[2023/08/09 18:08:22.953] =========== Partition Table 1 ============
+[2023/08/09 18:08:22.953] PartTbl.Active = 0x80
+[2023/08/09 18:08:22.953] PartTbl.FsFlag = 0x7
+[2023/08/09 18:08:22.953] PartTbl.StartSectorId = 128
+[2023/08/09 18:08:22.954] PartTbl.SectorCount = 30433152
+[2023/08/09 18:08:22.954] PartTbl.StartHead = 2
+[2023/08/09 18:08:22.954] PartTbl.StartSector = 3
+[2023/08/09 18:08:22.954] PartTbl.StartCylinder = 0
+[2023/08/09 18:08:22.954] PartTbl.EndHead = 254
+[2023/08/09 18:08:22.954] PartTbl.EndSector = 63
+[2023/08/09 18:08:22.955] PartTbl.EndCylinder = 1023
+[2023/08/09 18:08:22.955] =========== Partition Table 2 ============
+[2023/08/09 18:08:22.955] PartTbl.Active = 0x0
+[2023/08/09 18:08:22.955] PartTbl.FsFlag = 0x0
+[2023/08/09 18:08:22.955] PartTbl.StartSectorId = 0
+[2023/08/09 18:08:22.956] PartTbl.SectorCount = 0
+[2023/08/09 18:08:22.956] PartTbl.StartHead = 0
+[2023/08/09 18:08:22.956] PartTbl.StartSector = 0
+[2023/08/09 18:08:22.956] PartTbl.StartCylinder = 0
+[2023/08/09 18:08:22.956] PartTbl.EndHead = 0
+[2023/08/09 18:08:22.956] PartTbl.EndSector = 0
+[2023/08/09 18:08:22.957] PartTbl.EndCylinder = 0
+[2023/08/09 18:08:22.957] =========== Partition Table 3 ============
+[2023/08/09 18:08:22.957] PartTbl.Active = 0x0
+[2023/08/09 18:08:22.957] PartTbl.FsFlag = 0x0
+[2023/08/09 18:08:22.957] PartTbl.StartSectorId = 0
+[2023/08/09 18:08:22.957] PartTbl.SectorCount = 0
+[2023/08/09 18:08:22.957] PartTbl.StartHead = 0
+[2023/08/09 18:08:22.957] PartTbl.StartSector = 0
+[2023/08/09 18:08:22.957] PartTbl.StartCylinder = 0
+[2023/08/09 18:08:22.959] PartTbl.EndHead = 0
+[2023/08/09 18:08:22.959] PartTbl.EndSector = 0
+[2023/08/09 18:08:22.959] PartTbl.EndCylinder = 0
+[2023/08/09 18:08:22.959] =========== Partition Table 4 ============
+[2023/08/09 18:08:22.959] PartTbl.Active = 0x0
+[2023/08/09 18:08:22.959] PartTbl.FsFlag = 0x0
+[2023/08/09 18:08:22.959] PartTbl.StartSectorId = 0
+[2023/08/09 18:08:22.959] PartTbl.SectorCount = 0
+[2023/08/09 18:08:22.960] PartTbl.StartHead = 0
+[2023/08/09 18:08:22.960] PartTbl.StartSector = 0
+[2023/08/09 18:08:22.960] PartTbl.StartCylinder = 0
+[2023/08/09 18:08:22.960] PartTbl.EndHead = 0
+[2023/08/09 18:08:22.960] PartTbl.EndSector = 0
+[2023/08/09 18:08:22.960] PartTbl.EndCylinder = 0
+[2023/08/09 18:08:22.961] Part1 not match 128
+[2023/08/09 18:08:22.961] < INTEL SSDPEKNU512GZ> is filtered for not USB type.
+[2023/08/09 18:08:23.715] Total 36 languages ...
+[2023/08/09 18:08:24.079] Not ventoy disk, clear secure boot option
+[2023/08/09 18:08:33.544] SpaceMB:0 SizeInMB:14860
+[2023/08/09 18:08:33.550] InstallVentoy2PhyDrive MBR PhyDrive1 <<Netac OnlyDisk 16GB>>
+[2023/08/09 18:08:33.559] Copy boot img success
+[2023/08/09 18:08:33.560] Disk signature: 0xdf4438fa
+[2023/08/09 18:08:33.560] ReservedSector: 0
+[2023/08/09 18:08:33.560] Lock disk for clean ............................. 
+[2023/08/09 18:08:33.560] QueryDosDeviceA success \Device\Harddisk1\DR2
+[2023/08/09 18:08:33.562] [0] CreateFileA \\.\PhysicalDrive1 code:0 000004AC
+[2023/08/09 18:08:33.564] FSCTL_LOCK_VOLUME success
+[2023/08/09 18:08:33.564] LogicalDrive:\\.\C: PhyDrive:0 Offset:122683392 ExtentLength:188426161664
+[2023/08/09 18:08:33.564] LogicalDrive:\\.\D: PhyDrive:0 Offset:189388554240 ExtentLength:322121498624
+[2023/08/09 18:08:33.565] LogicalDrive:\\.\E: PhyDrive:1 Offset:65536 ExtentLength:15581773824
+[2023/08/09 18:08:33.565] E: is belong to phydrive1
+[2023/08/09 18:08:33.566] Delete mountpoint E:\ ret:1 code:0
+[2023/08/09 18:08:33.566] Will use 'E:' as volume mountpoint
+[2023/08/09 18:08:38.143] Deleting ALL partition(s) from disk '\\?\PhysicalDrive1':
+[2023/08/09 18:08:38.143] * Partition 1 (offset: 65536, size: 15581773824)
+[2023/08/09 18:08:38.208] Deleting all partitions ......................... OK
+[2023/08/09 18:08:38.216] Lock disk for write ............................. 
+[2023/08/09 18:08:38.216] QueryDosDeviceA success \Device\Harddisk1\DR2
+[2023/08/09 18:08:38.217] [0] CreateFileA \\.\PhysicalDrive1 code:0 00000598
+[2023/08/09 18:08:38.217] Opened \\.\PhysicalDrive1 for exclusive write access
+[2023/08/09 18:08:38.322] FSCTL_LOCK_VOLUME success
+[2023/08/09 18:08:38.328] Formatting part1 exFAT ...
+[2023/08/09 18:08:38.328] Formatting Part1 exFAT ...
+[2023/08/09 18:08:38.459] Formatting Part1 exFAT success
+[2023/08/09 18:08:38.469] mount part 0
+[2023/08/09 18:08:38.474] f_setlabel 0
+[2023/08/09 18:08:38.475] umount part 12
+[2023/08/09 18:08:38.477] Writing part2 FAT img ...
+[2023/08/09 18:08:38.478] FormatPart2Fat 30367744...
+[2023/08/09 18:08:38.530] Set file pointer: 15548284928  New pointer:15548284928
+[2023/08/09 18:08:38.531] Malloc whole img buffer success, now decompress ...
+[2023/08/09 18:08:39.669] decompress finished success
+[2023/08/09 18:08:39.669] VentoyProcSecureBoot 0 ...
+[2023/08/09 18:08:39.670] Open ventoy efi file 00F8F1E8 
+[2023/08/09 18:08:39.670] ventoy efi file size 1650688 ...
+[2023/08/09 18:08:39.671] Now delete all efi files ...
+[2023/08/09 18:08:39.671] Open bootx64 efi file 00F8F1E8 
+[2023/08/09 18:08:39.714] Open ventoy efi file 00F8F62C 
+[2023/08/09 18:08:39.716] ventoy efi file size 1114112 ...
+[2023/08/09 18:08:39.718] Now delete all efi files ...
+[2023/08/09 18:08:39.719] Open bootia32 efi file 00F8F1E8 
+[2023/08/09 18:08:39.787] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:39.819] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:39.853] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:39.891] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:39.924] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:39.960] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:40.034] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:40.068] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:40.105] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:40.139] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:40.173] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:40.206] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:40.242] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:40.278] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:40.354] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:40.389] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:40.424] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:40.460] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:40.496] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:40.535] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:40.574] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:40.608] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:40.683] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:40.719] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:41.489] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:42.233] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:42.925] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:42.961] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:43.000] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:43.034] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:43.069] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:43.106] Write part data bRet:1 dwSize:1048576 code:183
+[2023/08/09 18:08:43.120] Writing Boot Image ............................. 
+[2023/08/09 18:08:43.121] WriteGrubStage1ToPhyDrive ...
+[2023/08/09 18:08:43.237] Write MBR stage1 ...
+[2023/08/09 18:08:43.422] WriteFile Ret:1 dwSize:1048064 ErrCode:183
+[2023/08/09 18:08:43.424] Writing Partition Table ........................ 
+[2023/08/09 18:08:43.426] Write MBR OK ...
+[2023/08/09 18:08:43.582] Mounting Ventoy Partition ....................... 
+[2023/08/09 18:08:44.594] LogicalDrive:\\.\C: PhyDrive:0 Offset:122683392 ExtentLength:188426161664
+[2023/08/09 18:08:44.594] LogicalDrive:\\.\D: PhyDrive:0 Offset:189388554240 ExtentLength:322121498624
+[2023/08/09 18:08:46.274] LogicalDrive:\\.\E: PhyDrive:1 Offset:15548284928 ExtentLength:33554432
+[2023/08/09 18:08:46.274] E: is belong to phydrive1
+[2023/08/09 18:08:46.275] Logical drive letter after write ventoy: <E>
+[2023/08/09 18:08:46.292] E:\ is ventoy part2, delete mountpoint
+[2023/08/09 18:08:46.294] need to mount ventoy part1...
+[2023/08/09 18:08:46.294] GetVentoyVolumeName PhyDrive 1 SectorStart:2048 PartOffset:1048576
+[2023/08/09 18:08:46.294] Find volume:\\?\Volume{cbd01c8c-bf40-4af5-907d-938acbfaf977}\
+[2023/08/09 18:08:46.295] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS bRet:1 code:0
+[2023/08/09 18:08:46.295] NumberOfDiskExtents:1 DiskNumber:0
+[2023/08/09 18:08:46.295] This volume DiskNumber:0 offset:122683392
+[2023/08/09 18:08:46.333] Find volume:\\?\Volume{b6da551e-f336-441a-9ccf-6e15b01b649f}\
+[2023/08/09 18:08:46.333] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS bRet:1 code:0
+[2023/08/09 18:08:46.334] NumberOfDiskExtents:1 DiskNumber:0
+[2023/08/09 18:08:46.334] This volume DiskNumber:0 offset:188549693440
+[2023/08/09 18:08:46.334] Find volume:\\?\Volume{3d920c9b-9b92-4d13-a2b6-8b5314cd42c3}\
+[2023/08/09 18:08:46.334] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS bRet:1 code:0
+[2023/08/09 18:08:46.335] NumberOfDiskExtents:1 DiskNumber:0
+[2023/08/09 18:08:46.335] This volume DiskNumber:0 offset:189388554240
+[2023/08/09 18:08:46.335] Find volume:\\?\Volume{b731b7bd-25f6-48a7-846a-bcae7a799d73}\
+[2023/08/09 18:08:46.335] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS bRet:1 code:0
+[2023/08/09 18:08:46.336] NumberOfDiskExtents:1 DiskNumber:0
+[2023/08/09 18:08:46.336] This volume DiskNumber:0 offset:511511101440
+[2023/08/09 18:08:46.336] Find volume:\\?\Volume{53792ad0-365f-11ee-9868-4c445bca3c48}\
+[2023/08/09 18:08:47.346] IOCTL_VOLUME_GET_VOLUME_DISK_EXTENTS bRet:1 code:0
+[2023/08/09 18:08:47.346] NumberOfDiskExtents:1 DiskNumber:1
+[2023/08/09 18:08:47.346] This volume DiskNumber:1 offset:1048576
+[2023/08/09 18:08:47.346] This volume match
+[2023/08/09 18:08:47.347] GetVentoyVolumeName return 0
+[2023/08/09 18:08:47.347] SetVolumeMountPoint <E:\> <\\?\Volume{53792ad0-365f-11ee-9868-4c445bca3c48}\> bRet:1 code:0
+[2023/08/09 18:08:47.347] OK
+
+[2023/08/09 18:08:50.334] Combox select change, update secure boot option: 0 0
